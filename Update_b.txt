@@ -1,45 +1,45 @@
-ocsp.int-x3.letsencrypt.org
+0.0.0.0 ocsp.int-x3.letsencrypt.org
 
-ocsp.apple.com
+0.0.0.0 ocsp.apple.com
 
-ocsp2.apple.com
+0.0.0.0 ocsp2.apple.com
 
-mesu.apple.com
+0.0.0.0 mesu.apple.com
 
-gdmf.apple.com
+0.0.0.0 gdmf.apple.com
 
-world-gen.g.aaplimg.com
+0.0.0.0 world-gen.g.aaplimg.com
 
-xp.apple.com
+0.0.0.0 xp.apple.com
 
-appldnld.apple.com
+0.0.0.0 appldnld.apple.com
 
-swscan.apple.com
+0.0.0.0 swscan.apple.com
 
-swcdn.apple.com
+0.0.0.0 swcdn.apple.com
 
-swdownload.apple.com
+0.0.0.0 swdownload.apple.com
 
-swcdnlocator.apple.com
+0.0.0.0 swcdnlocator.apple.com
 
-swquery.apple.com
+0.0.0.0 swquery.apple.com
 
-radarsubmissions.apple.com
+0.0.0.0 radarsubmissions.apple.com
 
-metrics.apple.com
+0.0.0.0 metrics.apple.com
 
-securemetrics.apple.com
+0.0.0.0 securemetrics.apple.com
 
-metrics.icloud.com
+0.0.0.0 metrics.icloud.com
 
-iphonesubmissions.apple.com
+0.0.0.0 iphonesubmissions.apple.com
 
-iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com
 
-iadc.qwape.com
+0.0.0.0 iadc.qwape.com
 
-ppq.apple.com
+0.0.0.0 ppq.apple.com
 
-idiagnostics.apple.com
+0.0.0.0 idiagnostics.apple.com
 
-iphonediags.apple.com
+0.0.0.0 iphonediags.apple.com
